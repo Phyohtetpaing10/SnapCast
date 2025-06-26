@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Phyo-Htet-Paing-s-workspace-f2jm47.eu-central-1.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
